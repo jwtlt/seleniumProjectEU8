@@ -1,0 +1,6 @@
+hello=world
+url=https://google.com
+browser=chrome
+weborder_url=http://secure.smartbearsoftware.com/samples/TestComplete12/WebOrders/Login.aspx?ReturnUrl=%2fsamples%2fTestComplete12%2fWebOrders%2fDefault.aspx
+weborder_username=Tester
+weborder_password=test
